@@ -1,0 +1,1 @@
+SELECT "Country", "Gross M." FROM retailer_sales ORDER BY "Gross M." LIMIT 3;
